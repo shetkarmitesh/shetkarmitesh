@@ -1,5 +1,29 @@
 ## Hi I'm Mitesh Shetkar 👋
 
+<svg xmlns='http://www.w3.org/2000/svg'
+     xmlns:xlink='http://www.w3.org/1999/xlink'
+     viewBox='0 0 400 50'
+     style='background-color: #00000000;'
+     width='400px' height='50px'>
+    
+    <path id='path0' d='M0,25 H400' fill='none' stroke='none'>
+        <animate attributeName='d'
+                 begin='0s'
+                 dur='5s'
+                 fill='freeze'
+                 values='M0,25 H0; M0,25 H400; M0,25 H400; M0,25 H0'
+                 keyTimes='0;0.8;0.8;1' />
+    </path>
+
+    <text font-family='"monospace", monospace' fill='#0357F7' font-size='20'
+          dominant-baseline='middle'
+          x='0' text-anchor='start'
+          letter-spacing='normal'>
+        <textPath xlink:href='#path0'>
+            Backend Developer :)
+        </textPath>
+    </text>
+</svg>
 # 💫 About Me:
 
 - 🔭 I’m currently working on Software Development
